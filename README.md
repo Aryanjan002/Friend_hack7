@@ -9,6 +9,7 @@
 # git clone https://github.com/Aryanjan002/Friend_hack7
 # cd Friend_hack7
 # python2 Aryanhacker.py 
-
+# Username👉 Aryan
+# password👉 Hacker
 
 # join my telegram channel https://t.me/joinchat/RHNshhMEJyM0TRzk
